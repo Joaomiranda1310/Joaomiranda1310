@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou cursando o curso Tecninco em Desenvolvimento de Sistemas, no SENAI, com foco em [IA/DS].
 - 
 - ## Estou aprendendo.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="10"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="50"/>
           
           
           
