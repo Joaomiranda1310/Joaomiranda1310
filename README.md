@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, me chamo João Victor ! 
 
-<!--
-**Joaomiranda1310/Joaomiranda1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando na Cervejaria Petropolis, utilizando o  sistema de software ERP SAP.
+- 
+- 🌱 Atualmente estou cursando o curso Tecninco em Desenvolvimento de Sistemas, no SENAI, com foco em [IA/DS].
+- 
+- ## Estou aprendendo
+- 
+<i class="devicon-aarch64-plain "></i>
+          
+- 📫 Contato : joaomiranda12319@gmail.com
