@@ -7,7 +7,6 @@
 - 🌱 Atualmente estou cursando o curso Tecninco em Desenvolvimento de Sistemas, no SENAI, com foco em [IA/DS].
 - 
 - ## Estou aprendendo
-- 
 <i class="devicon-aarch64-plain "></i>
           
 - 📫 Contato : joaomiranda12319@gmail.com
