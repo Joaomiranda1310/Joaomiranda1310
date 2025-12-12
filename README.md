@@ -7,6 +7,7 @@
 - 
 - ## Estou aprendendo.
   
-<i class="devicon-aarch64-plain "></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
           
 - 📫 Contato : joaomiranda12319@gmail.com
