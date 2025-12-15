@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na Cervejaria Petropolis, utilizando o  sistema de software ERP SAP.
+- 🔭 No momento estou trabalhando na Cervejaria Petropolis, utilizando o  sistema de software ERP SAP.
 - 🌱 Atualmente estou cursando o curso Tecninco em Desenvolvimento de Sistemas, no SENAI, com foco em [IA/DS].
 - 
 - ## Estou aprendendo.
@@ -13,4 +13,4 @@
           
           
           
-- 📫 Contato : joaomiranda12319@gmail.com
+- 📫 Contato : Email :joaomiranda12319@gmail.com
